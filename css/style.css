@@ -1,0 +1,183 @@
+.wrapper{
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    background-color: #ffffff;
+
+}
+
+.preto_cima{
+    width: 100%;
+    height: 20%;
+    top: 0px;
+    left: 0px;
+    position: relative;
+    background-color: #000000;
+}
+
+.preto_esquerda{
+    width: 10%;
+    height: 100%;
+    top: 20%;
+    left: 0px;
+    position: absolute;
+    background-color: #000000;
+}
+
+.branco{
+    width: 90%;
+    height: 80%;
+    top: 20%;
+    left: 10%;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.branco_logo{
+    position: absolute;
+    background-color: #ffffff;
+    top: 0px;
+    left: 0px;
+
+}
+
+.blazer{
+    position: relative;
+    left: 200px;
+    top: 10px;
+    width: 100px;
+}
+
+.trae{
+position: absolute;
+right: 50px;
+top: 0px;
+
+}
+
+.ous{
+position: relative;
+left: 200px;
+top: 200px;
+
+}
+
+.ozweego{
+position: absolute;
+right: 00px;
+top: 550px;
+
+}
+
+.trae2{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+
+.blazer2{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+
+.ous2{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+
+.ozweego2{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+
+
+.carrinho{
+    position: absolute;
+    right: 20px;
+    top: 30px;
+
+}
+
+.texto_lista{
+    color: #ffffff;
+}
+
+.that{
+    color: #ff0000;
+    position: relative;
+    top: 0px;
+    left: 200px;
+    font-size: 100px;
+    font-family: fantasy;
+}
+
+.textbox{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.lupa{
+    position: absolute;
+    top: 0px;
+    right: 180px;
+    
+}
+
+.nome_blazer{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+.nome_blazer2{
+    position: relative;
+    left: 200px;
+    top: 10px;
+    font-size: 70px;
+}
+.nome_trae{
+    position: absolute;
+    right: 150px;
+    top: 250px;
+}
+
+.nome_trae2{
+    position: absolute;
+    left: 200px;
+    font-size: 60px;
+}
+.nome_ous{
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+.nome_ous2{
+    position: absolute;
+    left: 300px;
+    top: 400px;
+    font-size: 60px;
+}
+.nome_ozweego{
+    position: absolute;
+    right: 50px;
+    top: 800px;
+}
+
+.nome_ozweego2{
+    position: absolute;
+    left: 200px;
+    font-size: 80px;
+}
+
+.comprar{
+    position: absolute;
+    top: 60px;
+    left: 800px;
+    font-size: 100px;
+}
+    
